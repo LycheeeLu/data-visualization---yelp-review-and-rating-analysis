@@ -10,6 +10,7 @@ If some libraries are missing, install them with `pip install ...` in your envir
 
 https://business.yelp.com/data/resources/open-dataset/
 
-install the dataset from here and retrieve the `review.json` file and store it into data directory
+install the dataset from here and retrieve the `review.json` file and store it into the `data` directory
 
 MacOS: `python3 sentimentStarRating.py ...`
+
